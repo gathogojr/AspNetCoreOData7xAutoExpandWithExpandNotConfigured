@@ -1,0 +1,1 @@
+This repo demonstrates that `AutoExpand` doesn't require `Expand` to be configured in ASP.NET Core OData 7x
